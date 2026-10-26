@@ -1,6 +1,6 @@
 <div align="center">
 
-# 장민준 · Jang Minjun
+# 장민준 · JANG MINJUN
 
 ### 사용자 문제를 웹 서비스와 데이터로 풀어갑니다
 
