@@ -26,7 +26,7 @@
 
 | 프로젝트 | 해결하려는 문제 · 작업 내용 | 기술 · 링크 |
 |---|---|---|
-| **Mobility Field Lab** | 해외탐방 공유 이동수단 조사 플랫폼. 사진·측정 기록, A/B 독립 검수, 지도·지표, CSV 내보내기 구현. 해외 현장조사는 진행 예정이며 로컬 AI는 실험 단계입니다. | Next.js · TypeScript · IndexedDB · Python / FastAPI<br>[Code](https://github.com/peach20040909/mobility-field-lab) · [Demo](https://peach20040909.github.io/mobility-field-lab/) |
+| **Mobility Field Lab** | 해외탐방 공유 이동수단 조사 플랫폼. 사진·측정 기록, A/B 독립 검수, 지도·지표, CSV 내보내기 구현. 해외탐방 프로그램에 합격하여 실제 해외 현장조사를 준비하고 있습니다. 로컬 AI는 실험 단계입니다. | Next.js · TypeScript · IndexedDB · Python / FastAPI<br>[Code](https://github.com/peach20040909/mobility-field-lab) · [Demo](https://peach20040909.github.io/mobility-field-lab/) |
 | **한만큼** | 팀 작업 기록을 MRL 3축으로 집계해 교수의 판단 근거를 제공합니다. 사용자 인터뷰·서비스 기획·백엔드 구조 설계·아이디어 검증을 담당했습니다. | Node.js · SQLite · GitHub API · Notion Webhook<br>[Code](https://github.com/peach20040909/hanmankeum) · [Demo](https://hanmankeum.onrender.com/) |
 | **MJU SoloMap** | 명지대 주변 식당의 혼밥 난이도·지도·필터·랜덤 추천을 제공하는 개인 프로젝트입니다. | TypeScript · Express · JavaScript · Leaflet<br>[Code](https://github.com/peach20040909/MJU_solomap) · [Demo](https://mju-solomap.onrender.com/) |
 | **JMJ Archive** | 프로젝트·학습 기록을 구조화하고, 공개 포트폴리오와 JSON/Markdown 내보내기를 제공하는 개인 프로젝트입니다. | React · TypeScript · Express · Gemini API<br>[Code](https://github.com/peach20040909/JMJ_Project_Archive) · [Portfolio](https://jmj-archive-portfolio.ai.studio/) |
