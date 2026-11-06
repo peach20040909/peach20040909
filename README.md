@@ -22,10 +22,17 @@
 - **현장조사 도구:** 해외탐방을 위한 Mobility Field Lab
 - **팀 개발:** Loadmap 프론트엔드 참여, SetPIK 백엔드 참여
 
+## Awards
+
+- **2026 명지대학교 AI 창의적 아이디어 해커톤 우수상** — **고리(Go:RE)** · 6인 팀 메인 개발 · 2026.11.06
+  - 관광명소에 사진과 편지를 남기고, GPS·사진 확인을 거쳐 재방문 시 열어 보는 위치 기반 AI 타임캡슐 서비스입니다.
+  - [소스코드](https://github.com/peach20040909/GoRe) · [서비스](https://go-re.vercel.app/)
+
 ## Selected Projects
 
 | 프로젝트 | 해결하려는 문제 · 작업 내용 | 기술 · 링크 |
 |---|---|---|
+| **고리 (Go:RE) · 해커톤 우수상** | 장소를 해치지 않는 디지털 고리에 사진·편지를 남기고, 같은 장소에 돌아와 열어 보는 AI 기록 서비스. 6인 팀에서 메인 개발과 웹앱·API 연동을 담당했습니다. | Next.js 15 · TypeScript · Supabase · GPT-4o mini · NAVER Maps · model-viewer<br>[Code](https://github.com/peach20040909/GoRe) · [Demo](https://go-re.vercel.app/) |
 | **Mobility Field Lab** | 해외탐방 공유 이동수단 조사 플랫폼. 사진·측정 기록, A/B 독립 검수, 지도·지표, CSV 내보내기 구현. 해외탐방 프로그램에 합격하여 실제 해외 현장조사를 준비하고 있습니다. 로컬 AI는 실험 단계입니다. | Next.js · TypeScript · IndexedDB · Python / FastAPI<br>[Code](https://github.com/peach20040909/mobility-field-lab) · [Demo](https://peach20040909.github.io/mobility-field-lab/) |
 | **한만큼** | 팀 작업 기록을 MRL 3축으로 집계해 교수의 판단 근거를 제공합니다. 사용자 인터뷰·서비스 기획·백엔드 구조 설계·아이디어 검증을 담당했습니다. | Node.js · SQLite · GitHub API · Notion Webhook<br>[Code](https://github.com/peach20040909/hanmankeum) · [Demo](https://hanmankeum.onrender.com/) |
 | **MJU SoloMap** | 명지대 주변 식당의 혼밥 난이도·지도·필터·랜덤 추천을 제공하는 개인 프로젝트입니다. | TypeScript · Express · JavaScript · Leaflet<br>[Code](https://github.com/peach20040909/MJU_solomap) · [Demo](https://mju-solomap.onrender.com/) |
