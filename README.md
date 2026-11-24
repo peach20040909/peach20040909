@@ -69,13 +69,15 @@ GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 
 <td width="50%" valign="top">
 
 ### 혼밥지도 · SoloMap
-**혼자 먹기 좋은 식당을 찾는 캠퍼스 지도**
+**학우 리뷰와 방문 기록으로 키우는 혼밥 지도**
 
-명지대 주변 식당을 혼밥 난이도, 지도, 필터와 랜덤 추천으로 탐색하는 개인 서비스입니다.
+명지대 인문캠 주변 식당을 혼밥 난이도 Lv.1~5로 탐색하고, 학교 메일로 인증한 학우의 리뷰와 방문 체크인으로 식당 난이도와 나의 혼밥 레벨을 갱신하는 모바일 웹 서비스입니다.
 
-**담당** 개인 프로젝트 기획 및 개발  
-**기술** TypeScript · Express · JavaScript · Leaflet  
-**구현** 식당 검색 · 지도와 목록 · 난이도 필터 · 랜덤 추천
+**담당** 기획 · 디자인 · 프론트엔드 · 백엔드 · 배포 전부 (개인)  
+**기술** TypeScript · Express 5 · Prisma 7 · PostgreSQL(Supabase) · NAVER Maps · Gemini API · Vercel  
+**구현** 학교 메일 인증 · 리뷰 CRUD·난이도 보정 · 체크인·레벨 · 식당 검색·지도·랜덤 추천  
+**상태** 개발·배포 완료  
+**검증 기록** 서버 테스트 27개 · 평가용 API 요청 31개 통과 · 트러블슈팅 20건 기록
 
 [서비스 방문 ↗](https://mju-solomap.vercel.app/) · [소스코드](https://github.com/peach20040909/MJU_solomap)
 
