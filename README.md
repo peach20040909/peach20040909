@@ -111,7 +111,7 @@ GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 
 | 프로젝트 | 참여 내용 | 기술 |
 |---|---|---|
 | [Loadmap](https://github.com/6eaverr/SW-programming) | 강의 복습 후보 구간 시각화 · 프론트엔드 서브 개발 | React · TypeScript |
-| [SetPIK](https://github.com/DEPthes/5th-MVP-SetPIK-Server) | Spotify 기반 공연 추천 · 백엔드 서브 개발 · 다국어 아티스트 매칭 문제 해결 | Java · Spring Boot |
+| [SetPIK](https://github.com/DEPthes/5th-MVP-SetPIK-Server)<br>[라이브 데모 ↗](https://5th-mvp-set-pik-web.vercel.app/) | Spotify 기반 공연 추천 · 백엔드 서브 개발 · 다국어 아티스트 매칭 문제 해결 | Java · Spring Boot |
 
 ## Skills in Context
 
