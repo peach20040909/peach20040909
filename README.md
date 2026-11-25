@@ -8,7 +8,7 @@
 
 **웹 서비스 개발 · 데이터 활용 · 사용자 중심 기획**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=readme&logoColor=white)](https://jmj-archive-portfolio.ai.studio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=readme&logoColor=white)](https://jmj-archive.ai.studio/)
 [![GitHub](https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peach20040909?tab=repositories)
 [![Email](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a01027010769@gmail.com)
 
@@ -104,7 +104,7 @@ GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 
 프로젝트·학습 기록을 구조화하고, 공개 포트폴리오와 JSON/Markdown 내보내기를 제공하는 개인 프로젝트입니다.
 
 **React · TypeScript · Express · Gemini API**  
-[포트폴리오 방문 ↗](https://jmj-archive-portfolio.ai.studio/) · [소스코드](https://github.com/peach20040909/JMJ_Project_Archive)
+[포트폴리오 방문 ↗](https://jmj-archive.ai.studio/) · [소스코드](https://github.com/peach20040909/JMJ_Project_Archive)
 
 ## Team Experience
 
@@ -127,6 +127,6 @@ GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 
 
 <div align="center">
 
-프로젝트별 본인 역할과 구현 내용, 트러블슈팅은 [포트폴리오](https://jmj-archive-portfolio.ai.studio/)에서 확인할 수 있습니다.
+프로젝트별 본인 역할과 구현 내용, 트러블슈팅은 [포트폴리오](https://jmj-archive.ai.studio/)에서 확인할 수 있습니다.
 
 </div>
