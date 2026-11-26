@@ -30,7 +30,7 @@
 
 | 🏆 해커톤 우수상 | 🏆 AI 리터러시 우수상 | 🌍 해외탐방 선발 |
 | --- | --- | --- |
-| 2026 명지대학교<br>**AI 창의적 아이디어 해커톤**<br>고리(Go:RE) · 6인 팀 메인 개발<br>2026.11.06 | 2026 명지대학교<br>**AI 리터러시 경진대회**<br>[한만큼](#한만큼)<br>2026.11.26 | **Mobility Field Lab**<br>공유 이동수단 현장조사 웹앱 |
+| 2026 명지대학교<br>**AI 창의적 아이디어 해커톤**<br>[고리(Go:RE)](https://github.com/peach20040909/GoRe) · 6인 팀 메인 개발<br>2026.11.06 | 2026 명지대학교<br>**AI 리터러시 경진대회**<br>[한만큼](https://github.com/peach20040909/hanmankeum)<br>2026.11.26 | **[Mobility Field Lab](https://github.com/peach20040909/mobility-field-lab)**<br>공유 이동수단 현장조사 웹앱 |
 
 ## Selected Projects
 
