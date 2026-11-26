@@ -59,7 +59,8 @@ GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 
 
 **담당** 사용자 인터뷰 · 서비스 기획 · 백엔드 구조 설계 · 아이디어 검증  
 **기술** Node.js · SQLite · GitHub API · Notion Webhook  
-**설계** 기여율과 동료평가를 구분하고, 최종 평가는 교수가 수행
+**설계** 기여율과 동료평가를 구분하고, 최종 평가는 교수가 수행  
+**성과** 2026 명지대학교 AI 리터러시 경진대회 우수상 (2026.11.26)
 
 [서비스 방문 ↗](https://hanmankeum.vercel.app/) · [소스코드](https://github.com/peach20040909/hanmankeum)
 
