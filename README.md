@@ -6,7 +6,7 @@
 
 명지대학교 융합소프트웨어학부 · 데이터사이언스전공
 
-**웹 서비스 개발 · 데이터 활용 · 사용자 중심 기획**
+**AI 기능 개발 · LLM API 연동 및 출력 검증 · 풀스택 웹 개발**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=readme&logoColor=white)](https://jmj-archive.ai.studio/)
 [![GitHub](https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peach20040909?tab=repositories)
@@ -21,6 +21,7 @@
 사용자 인터뷰에서 문제를 찾고, 웹앱과 API로 해결 방법을 구현합니다.
 개인 서비스와 팀 프로젝트에서 맡은 역할, 설계 판단, 문제 해결 과정을 코드와 문서로 남깁니다.
 
+- **AI 서비스 개발** — 한만큼의 Claude Haiku 기반 기록 분류·요약, 고리(Go:RE)의 GPT-4o mini 사진 분석, 혼밥지도의 Gemini API 연동
 - **웹 개발** — 혼밥지도 개인 개발, 고리(Go:RE) 팀 메인 개발, 프로젝트 아카이브
 - **서비스 기획 · 데이터** — 한만큼 사용자 인터뷰와 팀 기여도 근거 리포트 설계
 - **현장조사** — 해외탐방 프로그램 선발, Mobility Field Lab 개발 및 해외 현장조사 준비
@@ -55,11 +56,11 @@
 ### 한만큼
 **흩어진 작업 기록을 팀 기여의 근거로**
 
-GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 집계해 교수의 판단을 돕습니다.
+교수가 쓰는 평가 기준에 GitHub·Notion 작업 기록을 연결해 팀 프로젝트 기여 근거를 보여주는 서비스입니다. Claude Haiku로 기준 정리, 기록 분류, 근거 요약을 지원합니다.
 
-**담당** 사용자 인터뷰 · 서비스 기획 · 백엔드 구조 설계 · 아이디어 검증  
+**담당** 교수 인터뷰 설계·진행 · UX·UI 설계 및 사이트 구현 총괄 · 시연 영상·최종 결과물 제작  
 **기술** Node.js · Vercel · Turso (libSQL) · Anthropic Claude Haiku API · GitHub REST API · Notion Webhook  
-**설계** 기여율과 동료평가를 구분하고, 최종 평가는 교수가 수행  
+**AI 검증** 규칙과 AI의 분류가 다르면 ‘확인 필요’로 표시하고, 근거 기록 번호가 없는 요약 문장은 제외합니다. 교수는 원본을 확인해 최종 평가합니다.  
 **성과** 2026 명지대학교 AI 리터러시 경진대회 우수상 (2026.11.26)
 
 [서비스 방문 ↗](https://hanmankeum.vercel.app/) · [소스코드](https://github.com/peach20040909/hanmankeum)
@@ -118,10 +119,13 @@ GitHub·Notion 작업 기록을 만들기·다듬기·이끌기(MRL) 3축으로 
 
 | 영역 | 프로젝트에서 활용한 경험 |
 |---|---|
+| **LLM API 연동** | Claude Haiku로 협업 기록 분류·요약 구현, Gemini API를 혼밥지도와 포트폴리오에 연동 |
+| **AI 출력 검증** | 한만큼에서 규칙 기반 교차 검토, 요약의 근거 인용 검사, 교수 확인 흐름을 구현 |
+| **AI 개발 도구** | Codex로 학원 변형문제 생성기 개발, Claude Code를 한만큼 구현에 활용 |
 | **TypeScript · JavaScript · React** | 혼밥지도, 프로젝트 아카이브, 고리, 조사 웹앱 |
-| **Node.js · Express · SQLite** | API 서버, 작업 로그 수집과 기여도 집계 |
+| **Node.js · Express · Turso (libSQL)** | API 서버 개발, 협업 기록 수집과 저장 |
 | **Java · Spring Boot** | SetPIK 팀 백엔드 개발 |
-| **Python · 비전 AI** | 현장조사 도구의 실험적 로컬 AI 연결 |
+| **멀티모달 AI · Python** | GPT-4o mini 사진 분석 연동, Qwen3 멀티모달 모델 사용, 현장조사 도구에서 로컬 비전 AI 실험 |
 | **Git · 외부 API** | 팀 협업, 지도·GitHub·Notion 데이터 연동 |
 
 ---
